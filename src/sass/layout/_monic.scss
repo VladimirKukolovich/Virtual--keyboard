@@ -1,0 +1,26 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+html {
+  background-color: #d4ca8391;
+}
+.wrapper {
+  max-height: 370px;
+  margin: 30px auto 0;
+  border-color: #222;
+  width: 700px;
+
+}
+.text {
+    outline: none;
+    box-sizing: border-box;
+    resize: none;
+    font-family: Inconsolata, monospace;
+    padding: 18px;
+    font-size: 12px;
+    line-height: 1.4;
+    background-color:rgb(235, 251, 229);
+    color: #222; 
+    height: 300px;
+    width: 100%;
+}
