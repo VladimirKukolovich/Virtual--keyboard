@@ -499,6 +499,9 @@ export const Abc = [
       value: ']', className: '', data: '221', location: '',
     },
     {
+      value: '/', className: '', data: '191', location: '',
+    },
+    {
       value: 'Del', className: 'del', data: '46', location: '3',
     },
   ],
@@ -548,6 +551,9 @@ export const Abc = [
       value: 'Shift', className: 'shift', data: '16', location: '1',
     },
     {
+      value: '\\', className: '', data: '220', location: '',
+    },
+    {
       value: 'z', className: '', data: '90', location: '',
     },
     {
@@ -581,7 +587,7 @@ export const Abc = [
       value: '↑', className: 'page_up', data: '38', location: '',
     },
     {
-      value: 'Shift', className: '', data: '16', location: '3',
+      value: 'Shift', className: 'shiftR', data: '16', location: '3',
     },
   ],
   [
@@ -783,7 +789,7 @@ export const ABC = [
       value: '↑', className: 'page_up', data: '38', location: '',
     },
     {
-      value: 'Shift', className: '', data: '16', location: '3',
+      value: 'Shift', className: 'shiftR', data: '16', location: '3',
     },
   ],
   [

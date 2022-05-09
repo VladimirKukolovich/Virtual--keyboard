@@ -1,8 +1,8 @@
 import { createElement } from './createElement';
-import { RuAbc, RuABC } from './state';
+import { Abc, RuAbc, RuABC } from './state';
 import { monic } from './monic';
 
-let language = RuAbc;
+let language = Abc;
 const { body } = document;
 
 export const virtualKeyboards = () => {
